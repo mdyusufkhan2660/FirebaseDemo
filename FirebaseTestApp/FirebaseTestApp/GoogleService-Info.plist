@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>282759313914-l6d7odpe2a7fvqgrh7i0ee52cr9s49dj.apps.googleusercontent.com</string>
+	<string>783528822497-rv1365uianjhjg2af6of8soq8ikbull5.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.282759313914-l6d7odpe2a7fvqgrh7i0ee52cr9s49dj</string>
+	<string>com.googleusercontent.apps.783528822497-rv1365uianjhjg2af6of8soq8ikbull5</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB8NJ4VgQB1X4ShtNvsXnr80LaK7HM1_ec</string>
+	<string>AIzaSyDK69nAwVxzA6-GR_kTIhAh48iRxvYRADc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>282759313914</string>
+	<string>783528822497</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>mdyusufkhan.DemoFirebase</string>
+	<string>mdyusufkhan.FirebaseTestApp</string>
 	<key>PROJECT_ID</key>
-	<string>fir-testapplication-2da87</string>
+	<string>fir-testapp-5831e</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-testapplication-2da87.appspot.com</string>
+	<string>fir-testapp-5831e.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:282759313914:ios:4495d4b3855396290d0c43</string>
+	<string>1:783528822497:ios:6e3c50f73271b6df53d9a0</string>
 </dict>
 </plist>

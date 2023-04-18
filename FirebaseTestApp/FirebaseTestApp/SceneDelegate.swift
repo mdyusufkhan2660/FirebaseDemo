@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  DemoFirebase
+//  FirebaseTestApp
 //
 //  Created by Md Yusuf Khan on 2023-04-05.
 //

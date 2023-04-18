@@ -1,14 +1,14 @@
 //
-//  DemoFirebaseTests.swift
-//  DemoFirebaseTests
+//  FirebaseTestAppTests.swift
+//  FirebaseTestAppTests
 //
 //  Created by Md Yusuf Khan on 2023-04-05.
 //
 
 import XCTest
-@testable import DemoFirebase
+@testable import FirebaseTestApp
 
-final class DemoFirebaseTests: XCTestCase {
+final class FirebaseTestAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

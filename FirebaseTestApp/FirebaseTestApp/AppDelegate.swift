@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DemoFirebase
+//  FirebaseTestApp
 //
 //  Created by Md Yusuf Khan on 2023-04-05.
 //
@@ -10,8 +10,9 @@ import FirebaseCore
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
+    
+    var window: UIWindow?
+    
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.

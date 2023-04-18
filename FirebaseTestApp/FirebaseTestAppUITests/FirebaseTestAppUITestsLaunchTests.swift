@@ -1,13 +1,13 @@
 //
-//  DemoFirebaseUITestsLaunchTests.swift
-//  DemoFirebaseUITests
+//  FirebaseTestAppUITestsLaunchTests.swift
+//  FirebaseTestAppUITests
 //
 //  Created by Md Yusuf Khan on 2023-04-05.
 //
 
 import XCTest
 
-final class DemoFirebaseUITestsLaunchTests: XCTestCase {
+final class FirebaseTestAppUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

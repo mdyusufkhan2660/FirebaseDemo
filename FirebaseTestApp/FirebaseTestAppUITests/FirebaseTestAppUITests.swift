@@ -1,13 +1,13 @@
 //
-//  DemoFirebaseUITests.swift
-//  DemoFirebaseUITests
+//  FirebaseTestAppUITests.swift
+//  FirebaseTestAppUITests
 //
 //  Created by Md Yusuf Khan on 2023-04-05.
 //
 
 import XCTest
 
-final class DemoFirebaseUITests: XCTestCase {
+final class FirebaseTestAppUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
